@@ -1,11 +1,6 @@
 //variable donde se va a almacenar la respuesta
 let respuesta;
 
-// const con las posibles respuestas
-
-const totalCompra = 'si';
-const errorCompra = 'no';
-
 //funcion de compra
 
 function compra(){
