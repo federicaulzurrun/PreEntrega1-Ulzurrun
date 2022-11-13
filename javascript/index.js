@@ -13,10 +13,8 @@ function compra(){
             alert('Tu total a pagar es de $13200 \nMuchas Gracias por tu compra en Zöld!')
         } else if (respuesta === 'no'){
             alert('Disculpe las molestias')
-        }else if (respuesta != 'si', 'no'){
-            alert('Ingrese una respuesta válida')
         } else{
-            alert('Que tenga un buen dia!')
+            alert('Ingrese una respuesta válida')
         }
     }
 }
